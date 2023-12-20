@@ -1,0 +1,10 @@
+com\amazingbookstore\AmazingBookStoreBackendApplication.class
+com\amazingbookstore\repository\BookRepository.class
+com\amazingbookstore\model\Book$BookBuilder.class
+com\amazingbookstore\model\Book.class
+com\amazingbookstore\dto\BookDto.class
+com\amazingbookstore\controller\BookController.class
+com\amazingbookstore\config\SpringDocConfig.class
+com\amazingbookstore\service\BookService.class
+com\amazingbookstore\config\Mapper.class
+com\amazingbookstore\dto\BookDto$BookDtoBuilder.class

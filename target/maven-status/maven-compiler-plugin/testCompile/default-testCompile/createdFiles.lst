@@ -1,0 +1,5 @@
+com\amazingbookstore\AmazingBookStoreBackendApplicationTests.class
+com\amazingbookstore\controller\BookControllerTest.class
+com\amazingbookstore\service\BookServiceTest.class
+com\amazingbookstore\integrationtest\BookControllerTest.class
+com\amazingbookstore\repository\BookRepositoryTest.class
