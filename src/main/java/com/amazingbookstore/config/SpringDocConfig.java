@@ -31,7 +31,7 @@ public class SpringDocConfig {
                 .version("1.0")
                 .contact(new Contact()
                         .name("BookStore Admin")
-                        .url("https://book-store-web.herokuapp.com")
+                        .url("https://amazingbookstore.onrender.com")
                         .email("bookstore@gmail.com"))
                 .termsOfService("term and condition url")
                 .license(new License().name("book store license").url("license url")));
