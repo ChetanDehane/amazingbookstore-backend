@@ -1,5 +1,6 @@
 com\amazingbookstore\AmazingBookStoreBackendApplication.class
 com\amazingbookstore\repository\BookRepository.class
+com\amazingbookstore\config\CrossOriginConfig.class
 com\amazingbookstore\model\Book$BookBuilder.class
 com\amazingbookstore\model\Book.class
 com\amazingbookstore\dto\BookDto.class
