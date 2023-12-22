@@ -1,5 +1,0 @@
-# Created at 2023-12-21T01:24:13.569
-Boot Manifest-JAR contains absolute paths in classpath 'E:\FullStackJava\Project\amazingbookstore-backend\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-

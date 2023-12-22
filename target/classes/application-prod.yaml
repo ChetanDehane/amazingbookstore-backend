@@ -1,0 +1,38 @@
+
+spring: 
+ h2:
+  console:
+   enabled: true
+   
+ mvc:
+  pathmatch:
+   matching-strategy: ANT_PATH_MATCHER
+   
+ datasource:
+  url: ${databaseUrl}
+  username: ${usernameDB}
+  password: ${passwordDB}
+  hikari: 
+   connection-test-query: SELECT 1
+   
+ sql:
+  init:
+   platform: postgres
+
+ jpa: 
+  database: POSTGRESQL
+  show-sql: true
+  generate-ddl: true
+  hibernate:
+   ddl-auto: validate
+    
+ flyway:
+  baseline-on-migrate: true
+  validate-on-migrate: true
+
+logging:
+  level:
+    org:
+      springframework:
+        test: DEBUG 
+  

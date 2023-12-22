@@ -34,6 +34,4 @@ logging:
   level:
     org:
       springframework:
-        test: DEBUG
-
-  
+        test: DEBUG 
